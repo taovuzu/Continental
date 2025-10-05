@@ -83,7 +83,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 
 ```bash
-git clone https://github.com/orz/Continental.git
+git clone https://github.com/taovuzu/Continental.git
 cd Continental
 ```
 
@@ -343,14 +343,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [↥ Back to top](#readme-top)
 
 <!-- Badge references -->
-[last-commit-shield]: https://img.shields.io/github/last-commit/orz/Continental.svg
-[last-commit-url]: https://github.com/orz/Continental/commits/main
-[issues-shield]: https://img.shields.io/github/issues/orz/Continental.svg
-[issues-url]: https://github.com/orz/Continental/issues
-[repo-size-shield]: https://img.shields.io/github/repo-size/orz/Continental.svg
-[repo-size-url]: https://github.com/orz/Continental
-[license-shield]: https://img.shields.io/github/license/orz/Continental.svg
-[license-url]: https://github.com/orz/Continental/blob/main/LICENSE
+[last-commit-shield]: https://img.shields.io/github/last-commit/taovuzu/Continental.svg
+[last-commit-url]: https://github.com/taovuzu/Continental/commits/main
+[issues-shield]: https://img.shields.io/github/issues/taovuzu/Continental.svg
+[issues-url]: https://github.com/taovuzu/Continental/issues
+[repo-size-shield]: https://img.shields.io/github/repo-size/taovuzu/Continental.svg
+[repo-size-url]: https://github.com/taovuzu/Continental
+[license-shield]: https://img.shields.io/github/license/taovuzu/Continental.svg
+[license-url]: https://github.com/taovuzu/Continental/blob/main/LICENSE
 
 <!-- Technology refs -->
 [React.js]: https://img.shields.io/badge/React-18-blue.svg
